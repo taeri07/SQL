@@ -1,0 +1,2 @@
+# SQL
+sql vs python
